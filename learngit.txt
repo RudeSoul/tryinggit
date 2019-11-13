@@ -1,1 +1,23 @@
 after learning about branch and named branch as experiment
+
+
+another branch with name another is created
+"
+here are command line to learn truncatechars_html
+
+git branch branch_name
+ 
+and to go to that branch 
+
+git checkout branch_name
+
+and before pushing it please do add it and commit with good meassage so that it will help in future
+
+git add -A 
+git commit -m "useful meassage"
+
+and then push it to git respo 
+command line for pusing branch is 
+
+git push -u origin branch_name
+"
