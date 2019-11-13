@@ -21,4 +21,5 @@ command line for pusing branch is
 
 git push -u origin branch_name
 "
-
+#you can push branch to git from any location i.e. from specific branch or other branch just use
+git push -u origin branch_name 
